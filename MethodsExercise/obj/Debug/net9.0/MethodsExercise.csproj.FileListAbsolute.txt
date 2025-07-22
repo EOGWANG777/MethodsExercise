@@ -17,7 +17,6 @@ C:/Users/Harpe/Desktop/NET9/MethodsExercise/MethodsExercise/obj/Debug/net9.0/ref
 /Users/estherogwang/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/MethodsExercise.AssemblyInfoInputs.cache
 /Users/estherogwang/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/MethodsExercise.AssemblyInfo.cs
 /Users/estherogwang/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/MethodsExercise.csproj.CoreCompileInputs.cache
-/Users/estherogwang/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/MethodsExercise.sourcelink.json
 /Users/estherogwang/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/MethodsExercise.dll
 /Users/estherogwang/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/refint/MethodsExercise.dll
 /Users/estherogwang/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net9.0/MethodsExercise.pdb
