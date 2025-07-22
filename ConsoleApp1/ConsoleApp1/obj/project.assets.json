@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/estherogwang/Desktop/repos/MethodsExercise/MethodsExercise/MethodsExercise.csproj",
-      "projectName": "MethodsExercise",
-      "projectPath": "/Users/estherogwang/Desktop/repos/MethodsExercise/MethodsExercise/MethodsExercise.csproj",
+      "projectUniqueName": "/Users/estherogwang/Desktop/repos/MethodsExercise/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "/Users/estherogwang/Desktop/repos/MethodsExercise/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/Users/estherogwang/.nuget/packages/",
-      "outputPath": "/Users/estherogwang/Desktop/repos/MethodsExercise/MethodsExercise/obj/",
+      "outputPath": "/Users/estherogwang/Desktop/repos/MethodsExercise/ConsoleApp1/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/estherogwang/.nuget/NuGet/NuGet.Config"
